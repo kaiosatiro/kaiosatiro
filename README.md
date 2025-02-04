@@ -19,7 +19,9 @@
 
 🌱 I’m currently learning ...
 <p align="left"></p>
+<a href="https://www.rust-lang.org/learn" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" width="40" height="40"/> </a>
 <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" width="40" height="40"/> </a>
+
 
 
 <h3 align="left">📫 - - ></h3>
